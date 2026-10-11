@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "63250985dba6f634",
+    "type": "split",
+    "children": [
+      {
+        "id": "d62413b26be0b1d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a496ff382262991b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": -2.842170943040401e-14,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c07489af7ffff40a",
+    "type": "split",
+    "children": [
+      {
+        "id": "878240a80bb195e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4597222ad95ed731",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "22a1dfad70bdbdd3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "eee7381b50185b2e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c9fcb093897effb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa40f7c924cebd74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43c664e3d4ea31ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3f6ab7c7b2e7a2d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f149848f6ecc0df0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "38da4dce23a7048e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a496ff382262991b",
+  "lastOpenFiles": [
+    "Song of Flowers/282c7d10-7acf-4294-807e-0c526289092f.webp",
+    "Untitled.canvas",
+    "Song of Flowers/f2b79c5e-b5e6-4f97-8171-802676dbea9d.webp",
+    "Song of Flowers/a1552c43-0889-4efc-ade6-f3d6b774c5d9.webp",
+    "Song of Flowers/20250209_202953.jpg",
+    "Evernight.pdf",
+    "Mirasol Aphelion commission.pdf",
+    "Pasted image 20240928142535.png",
+    "Untitled.base",
+    "Song of Flowers/World/Evernight/Factions/The Void.md",
+    "Song of Flowers/World/Eidolon/Trigger, Drive, Resolve.md",
+    "Song of Flowers/World/Zinariya/Ministry of Eidology.md",
+    "Song of Flowers/Characters/Sub/Zinariya/Arson (Solaire) Aphelion.md",
+    "Song of Flowers/Characters/Main/Mirasol Aphelion commission.md",
+    "Song of Flowers/World/Zinariya/Zinariya.md",
+    "Song of Flowers/World/Zinariya/Blood Trial.md",
+    "Song of Flowers/World/Evernight/Factions/The Tyrant.md",
+    "Song of Flowers/Characters/Main/Mirasol Aphelion.md",
+    "Song of Flowers/World/Zinariya/Noble houses.md",
+    "Song of Flowers/World/The teleporting library.md",
+    "Song of Flowers/World/Rhyze and Runes/Trigger.md",
+    "Song of Flowers/World/Rhyze and Runes/Runes.md",
+    "Song of Flowers/World/Rhyze and Runes/Rhyze.md",
+    "Song of Flowers/World/Rhyze and Runes/Cores.md",
+    "Song of Flowers/World/Rhyze and Runes/Catalysts.md",
+    "Song of Flowers/World/Nirvana/Nirvana.md",
+    "Song of Flowers/World/Nirvana/Layout.md",
+    "Song of Flowers/World/Nirvana/Five major forces.md",
+    "Song of Flowers/World/Kalpavriksha.md",
+    "Song of Flowers/World/Higher beings/Tharisha-The Blessed One.md",
+    "Song of Flowers/World/Higher beings/Gods.md",
+    "Song of Flowers/World/Higher beings/Devils and Demons （Tanha and Mara).md",
+    "Song of Flowers/World/Higher beings/Apostles.md",
+    "Song of Flowers/World/Evernight/Factions/Human Lords.md",
+    "Song of Flowers/Plot",
+    "Song of Flowers/Characters/Sub/Nirvana/Guild",
+    "Song of Flowers/Characters/Sub/Zinariya",
+    "Song of Flowers/Characters/Sub/Nirvana",
+    "Song of Flowers/Characters/Sub/Evernight",
+    "Song of Flowers/Characters/Sub",
+    "Song of Flowers/Characters/Main/Pasted image 20240621012457.png",
+    "Song of Flowers/Characters/Main"
+  ]
+}

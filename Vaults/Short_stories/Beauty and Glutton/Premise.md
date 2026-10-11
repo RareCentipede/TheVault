@@ -1,0 +1,5 @@
+Under the sunless skies, over the mountains of unrelenting storm sat a village with an unusual tradition. Every month a Devourance festival is held, and one selected young man or woman gives their life away to Lord Vorax in exchange for a month worth of fresh produce.
+
+In a few months time, it would be Lan's turn. She was supposed to feel honoured. After all, not everyone gets to be devoured by their beloved Lord,, and live on in the villager's bodies. Though, she felt a strange emptiness in her stomach. Ever since she was a child she had wondered about the outside world. What could be on the other side of those mountains?
+
+A twist of fates brought an ostracised girl to her, who knew about the outside world, and despised it. And she plotted to use Lan to slay their Lord and put an end to the Devourance festival.

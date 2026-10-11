@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "46e9fcfaf74feb39",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc1d267e7f867a8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a65267e56578ea62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Beauty and Glutton/Rough draft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rough draft"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02a7cc713f01e031",
+    "type": "split",
+    "children": [
+      {
+        "id": "c174fbfd6382ed8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41845805d47bee54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1b6d2041fbfedc32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "39f0f8b4570fad54",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7d065e30ba9e1b66",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9942c8dfe9c2ef1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d42b83b0426c800",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Beauty and Glutton/Rough draft.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Rough draft"
+            }
+          },
+          {
+            "id": "115d9272d7e09d91",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "3194e0000832343e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c90d41d681436dc5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "charted-roots:Open Charted Roots control center": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a65267e56578ea62",
+  "lastOpenFiles": [
+    "Beauty and Glutton/Premise.md",
+    "Beauty and Glutton/Rough draft.md",
+    "Ideas.md",
+    "Beauty and Glutton/Background.md",
+    "Block boy and Round girl.md",
+    "Final act of To kill a blackhole.md",
+    "Beauty and Glutton/Archived/Outline.md",
+    "Beauty and Glutton/Archived/Main.md",
+    "Pasted image 20260105231508.png",
+    "Beauty and Glutton/Rough draft.md.14cc0bc5.partial",
+    "Beauty and Glutton/Archived",
+    "Beauty and Glutton"
+  ]
+}

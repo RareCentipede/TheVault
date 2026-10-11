@@ -1,0 +1,15 @@
+Dear Hiring Team at QED,
+
+I am Zhengyang, a TU Delft Robotics Master student applying for the Software and Control Engineer position at QED Technologies. The job description sounded interesting to me and fits my experience well, namely control systems, embedded software, and hardware-software integration. I am also based in Delft so I am applying for the position for after I graduate in June.
+
+My background is in robotics and electrical engineering, and have taken on several projects where I was responsible for electronics design and manufacturing and embedded programming. Hence, I am used to working in multidisciplinary environments, it is also what appealed to me about this job opening. At the TU Delft Bike Lab, I developed C firmware on a Teensy microcontroller to acquire and transmit IMU data over Bluetooth and integrated a CAN bus pipeline for multi-node data logging. For the RoBorscht project, two friends and I were tasked to build a robotics hand. I designed custom PCBs to distribute power and enable communication between motor drivers via CAN bus, and wrote closed-loop motor control firmware in C++ on a STM32 microcontroller. Additionally, I've participated in numerous hackathons where we had to rapidly prototype robots in a team and complete in challenges, often having to design electronics and write embedded software. These projects were all about testing hardware and debugging integration with software, so I have become quite familiar with those aspects of multidisciplinary projects. In addition, I always try to write clean, readable, and maintainable code even in those stress-inducing hackathons, and I use git for version control whenever I can.
+
+I enjoy problem solving, and working with both software and hardware, especially seeing my code control actuators and move real systems, and this position seems like the perfect combination of software and hardware. From the above projects and other work experiences I've improved my communication and team work capabilities a lot, and I have come to really enjoy working in a team, willing to step up to responsibilities or take on tasks that do not fit my position but are necessary. I am also not afraid to take on challenges or responsibilities, and I am always interested in learning new skills. Thus, even though I do not have experience with TwinCAT or EtherCAT, I would be eager to learn these tools and apply them to the job. And with my programming experiences I believe I would be able to pick up C# or Java fairly quickly. Technology excites me, being able to work on industry-leading systems seems like a fantastic job, and I would love to learn more about this position and how I could fit into the team.
+
+Thank you for your time and consideration, hope to hear back from you soon!
+
+As an additional note, I have permanent residency in the Netherlands, so I do not need a work visa.
+
+Kind regards,
+Zhengyang (Steven) Lu
++31 618445246 | stevenlu176@hotmail.com

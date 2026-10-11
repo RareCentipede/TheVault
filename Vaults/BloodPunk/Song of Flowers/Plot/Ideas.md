@@ -1,0 +1,1 @@
+While in Nirvana, Ars asks Mirasol about Janet. He told her she has been trying to find her this whole time. Mirasol has someone waiting for her on the outside. This motivated Mirasol a lot.

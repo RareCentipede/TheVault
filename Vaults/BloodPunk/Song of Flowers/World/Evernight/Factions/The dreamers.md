@@ -1,0 +1,1 @@
+People that willingly trapped themselves in an never-ending dream. Their nightmares are realized into monsters that haunt evernight to bring more people into the dreaming cocoons. It wants to sink the whole world into a dream.

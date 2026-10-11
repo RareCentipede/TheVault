@@ -1,0 +1,40 @@
+# Work
+- [x] Path planner service improvement
+	- [x] Make it so that if smoothing fails, return the unsmoothed path so the system doesn't crash
+- [x] Drone commander to make setting up missions easier
+- [x] Path planner test scripts
+	- [x] Drone commander template
+	- [x] Drone commander test child node
+- [x] LLM evaluation
+- [x] Swarming simulator presentation
+	- [x] Add the trade offs of Unity and UE5
+- [x] Check Martijn's git one-pager
+- [x] Update swarming sim presentation
+
+# RoboCup
+- [x] Post for this week (28th of April) [Official invitation]
+	- [x] Task given to Bas
+- [ ] Contact media companies for exposure
+	- [x] Check with Roksolana
+	- [x] Delft PR
+	- [x] NOS
+	- [x] Delta
+	- [ ] Emy
+	- [x] Tweakers
+		- redactie@tweakers.net
+	- [ ] Dutch football youtuber
+	- [ ] Reddit
+	- [x] Dream hall
+		- l.hussaarts@tudelft.nl
+- [ ] Sort out merch stuff
+- [x] Send TDP to FAST
+- [x] Email Martijn Wisse to ask about the laptop
+- [ ] Message Drone Initiatives about space
+- [x] Contact PlusCargo
+- [x] Contact NanoTec
+- [x] Contact RS
+- [x] Contact STM
+- [x] Get contact details for donors
+- [x] Upload FAST post
+- [x] Give Bas stuff to post
+- [x] Send money to Martijn

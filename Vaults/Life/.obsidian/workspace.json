@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "98f44ed922b970bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "0eb9c3a9041c49b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "609dad230a6b892f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026/07 July/2026-07-23.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-23"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06a161bd2e1b0b32",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2b345133085fd3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7bfef403553ffcc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1e37ca477c3a14f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "04333adfcad96d37",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1b1acbd16a4873fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1151474834b24f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f26ffd4ca2c642f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/2024/09 September/2024-09-02.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-09-02"
+            }
+          },
+          {
+            "id": "1b65715c06fecf69",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily/2024/09 September/2024-09-02.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-09-02"
+            }
+          },
+          {
+            "id": "7268d999782cfbd7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8f09f4d558663ccd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/2026/03 March/2026-03-02.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-03-02"
+            }
+          },
+          {
+            "id": "d4d74052200c0d52",
+            "type": "leaf",
+            "state": {
+              "type": "smart-gantt",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "smart-gantt"
+            }
+          },
+          {
+            "id": "b0cd59e2b1de0435",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-kanban:Create new board": false,
+      "smart-gantt:Smart Gantt": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b7bfef403553ffcc",
+  "lastOpenFiles": [
+    "Daily/2026/07 July/Monthly goals.md",
+    "Daily/2026/07 July/2026-07-23.md",
+    "Projects/RoBorscht/3D printing.md",
+    "Daily/2026/07 July",
+    "Work/Motivation letters/S&T.md",
+    "Defence invites.md",
+    "Work/Motivation letters/QED.md",
+    "Work/Motivation letters/Fugro motivation letter Zhengyang Lu.md",
+    "Work/Motivation letters/Priva motivation letter Zhengyang Lu.md",
+    "Work/Potential companies.md",
+    "Work/Monumental.md",
+    "Work/Motivation letters/Growy.md",
+    "Daily/2026/05 May/2025-05-02.md",
+    "Daily/2026/04 April/2026-04-26.md",
+    "Daily/2026/04 April/2026-04-12.md",
+    "Daily/2026/04 April/2026-04-25.md",
+    "Daily/2026/04 April/Todo.md",
+    "Work/Motivation letters/ExRobotics.md",
+    "Work/Motivation letters/Allseas.md",
+    "Work/The Ocean Cleanup Internship/Final todos.md",
+    "Work/The Ocean Cleanup Internship/Azure.md",
+    "Work/SpectX mission logic.md",
+    "Work/Potential companies-ZluSpectxHP-safeBackup-0001.md",
+    "Work/Motivation letters/Viscon group.md",
+    "Work/Motivation letters/Sioux Embedded software engineer.md",
+    "Work/Motivation letters/Quantillion motivation letter Zhengyang Lu.md",
+    "Daily/2026/05 May",
+    "THERMITE.md",
+    "Untitled.canvas",
+    "Teppei.md.partial",
+    "Work/Potential companies.md.partial",
+    "Work/SpectX mission logic.md.partial",
+    "Work/Motivation letters/Sioux Embedded software engineer.md.partial",
+    "Work/Motivation letters/Quantillion motivation letter Zhengyang Lu.md.partial",
+    "Work/Motivation letters/Priva motivation letter Zhengyang Lu.md.partial",
+    "Work/Motivation letters/Allseas.md.partial",
+    "Daily/2026/04 April/2026-04-12.md.partial",
+    "Pasted image 20250714225957.png",
+    "Pasted image 20250129211433.png",
+    "Daily/2024/03 March/Academics/ICS/lecture 2/Pasted image 20240327163056.png",
+    "Daily/2024/03 March/Academics/ICS/Lecture 4/Pasted image 20240415122909.png",
+    "Daily/2024/03 March/Academics/ICS/Lecture 4/Pasted image 20240415122600.png",
+    "Daily/2024/03 March/Academics/ICS/Lecture 4/Pasted image 20240415114413.png",
+    "Daily/2024/03 March/Academics/ICS/Lecture 4/Pasted image 20240414144141.png",
+    "Daily/2024/03 March/Academics/ICS/Lecture 5/Pasted image 20240403151450.png",
+    "Daily/2024/03 March/Academics/ICS/Lecture 5/Pasted image 20240403151440.png",
+    "Daily/2024/03 March/Academics/ICS/Lecture 1/Pasted image 20240325161432.png"
+  ]
+}

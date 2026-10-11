@@ -1,0 +1,5 @@
+#faction 
+The Void is at the heart of the darkness, where no light can penetrate.
+Zinariya supresses all its common citizens' emotions and desired so they don't get influenced by Tanha and become Mara-struck. However, this did not remove desires, only created extremely strong desires to supress and remove wants and feelings. Millions resonating with the same want create the most powerful Tanha, which gave birth to the Void Beings.
+
+Their existence is a paradox. Their purpose is to die and be erased, but due to the strong Tanha created by Zinariya they keep living and being birthed. Existing is extremely painful for them. To fulfil their purpose, which is stop existing, they have to remove the very thing that led to their existence: the desire the laid at the core of every Zinariyan. Which is to say, they must massacre the entire empire.

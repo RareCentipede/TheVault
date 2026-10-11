@@ -1,0 +1,18 @@
+- 6 x forearm_extruder_wrist_panel_cable
+	- [x] 3 x SC*
+	- [x] 3 x SC*
+- 6 x forearm_extruder_wrist_panel_nocable (3 x Workshop, 3 x SC)
+	- [x] 3 WS*
+	- [x] 3 SC*
+- 12 x forearm_motor_extruder_panel (printing. 3 x workshop, 9 x SC)
+	- [x] 3 x workshop
+	- [x] 3 SC
+	- [x] 3 SC*
+	- [x] 3 SC*
+- 12 x forearm_motor_panel (12 x SC, black)
+	- [x] 3 SC*
+	- [x] 3 SC*
+	- [x] 3 SC*
+	- [x] 3 SC*
+- 1 x forearm_plate_arm (1 x SC)
+	- [x] SC

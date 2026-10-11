@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "30f4d5ec86f051e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "fde8980446527c4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61e9147338b40f56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024/06 June/2024-06-03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f3ebaeac7b51c104",
+    "type": "split",
+    "children": [
+      {
+        "id": "31fa9d62d6ab56ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5de866e98eebc39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42e90ecf2799b7ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df2691de241ed540",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "038ccc39ad42617f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7de3aca901f3f15d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9f8a810ecf02836",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/2024/06 June/2024-06-03.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c744f9d00a9cfc89",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily/2024/06 June/2024-06-03.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da48cce30a2b26c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "644e68e3bd2038d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/2024/06 June/2024-06-03.md"
+              }
+            }
+          },
+          {
+            "id": "de241f92002a66e2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "61e9147338b40f56",
+  "lastOpenFiles": [
+    "Daily/2024/06 June/2024-06-04.md",
+    "Daily/2024/06 June/2024-06-05.md",
+    "Daily/2024/06 June/2024-06-06.md",
+    "Daily/2024/06 June/2024-06-09.md",
+    "Daily/2024/06 June/2024-06-11.md",
+    "Daily/2024/06 June/2024-06-12.md",
+    "Daily/2024/06 June/2024-06-13.md",
+    "Daily/2024/06 June/2024-06-14.md",
+    "Work/The Ocean Cleanup Internship/MOT/YOLO detection and tracking.md",
+    "Work/The Ocean Cleanup Internship/MOT/MOT trackers.md",
+    "Work/The Ocean Cleanup Internship/MOT/Data preparation.md",
+    "Master thesis/ESA Space Grasping System design.md",
+    "Master thesis/Ideas.md",
+    "Daily/2024/06 June/2024-06-03.md",
+    "Daily/2024/05 May/2024-05-31.md",
+    "Daily/2024/05 May/2024-05-30.md",
+    "Daily/2024/05 May/2024-05-29.md",
+    "Daily/2024/05 May/2024-05-28.md",
+    "Daily/2024/05 May/2024-05-27.md",
+    "Daily/2024/05 May/2024-05-17.md",
+    "Daily/2024/05 May/2024-05-18.md",
+    "Daily/2024/05 May/2024-05-19.md",
+    "Daily/2024/05 May/2024-05-20.md",
+    "Work/The Ocean Cleanup Internship/OpenCV tracker evaluation.md",
+    "Work/The Ocean Cleanup Internship/Azure.md",
+    "Work/Resume/Resume.md",
+    "Daily/2024/06 June",
+    "Pasted image 20240521191647.png",
+    "Master thesis",
+    "Work/Resume",
+    "Daily/2024/April/Untitled",
+    "Daily/2024/05 May",
+    "Work/Motivation letters",
+    "Academics/ICS/Pasted image 20240410182818.png",
+    "Academics/ICS/Pasted image 20240416111811.png",
+    "Academics/ICS/Pasted image 20240416120616.png",
+    "Academics/ICS/Pasted image 20240416120447.png",
+    "Academics/ICS/Pasted image 20240416120155.png",
+    "Academics/ICS/Pasted image 20240416113334.png",
+    "Academics/ICS/Pasted image 20240416113221.png",
+    "Academics/ICS/Pasted image 20240416113018.png",
+    "Academics/ICS/Lecture 4/Pasted image 20240414144141.png",
+    "Academics/ICS/Lecture 4",
+    "Writing",
+    "Academics/ICS/Exam revision",
+    "Academics/ICS/Lecture 8",
+    "Untitled.canvas"
+  ]
+}

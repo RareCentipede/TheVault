@@ -1,0 +1,604 @@
+# ACT I
+- A young Yu Lan pestered her mother about the world.
+	- What's on the other side of the mountain?
+	- Where do we go after we return to the Lord?
+	- Are there other villages on the other side of the mountains? Do they also have a lord to feed people to? etc.
+- Her mother was quite annoyed and scolded her, and told her to focus on her calligraphy. She must build a beautiful mind and body to be selected by the Lord.
+	- Lan secretly doodled on a different page. She drew a ball of fire in the sky.
+	- She passed it to her sister but was caught. Her mother tore up the page and punished Lan.
+	- "You will never be a gift to our Lord if you distract yourself like this!"
+- Lan kept doodling and wondering about the things she doesn't know. Often getting into trouble because of it.
+	- Giant insects, all kinds of monsters, impossible sceneries, and so much more. It filled her with joy.
+	- She shared these thoughts with her friends, but only Xin took any interested in them.
+	- She quite liked Xin.
+- Lan's mother on the other hand hated her doodles. She always reminded her and her siblings how important it is to be chosen by the Lord.
+	- She always brought up how the only way to achieve true happiness and escape the sufferings of the real world was to be chosen by the Lord, and have him return  them to where they came from. A utopia.
+	- She also always talked about her friend, how beautiful and lucky she was to be chosen, and how jealous she was of her.
+	- Lan drew her mother as a very loud bird and her and her sister as  poor children that had to listen. She did not get dinner that turn.
+- Chaos erupted at the village square. A man was tied to a stake and being burned alive. Screaming as his daughter pleaded for his life.
+	- The man was punished for spreading heresy about the outside world and there being other ways to achieve happiness and survive without sacrificing lives.
+	- He also spoke about a kingdom bathed under the sun, a giant fireball in the sky that lit up the world.
+	- Golden crops filled the kingdom, and they fed the people.,
+	- Lan's eyes sparkled at his words.
+- As the heretic burned, the priests ordered the villagers to find his texts and burn them too.
+	- Someone tripped and dropped a pile of books in front of Lan. She picked some up and hid them under her dress.
+	- The heretic's daughter wrangled out of the adults' grasps and ran to her father. A plank of wood cracked and a scorching chip landed on her face.
+	- She fell to the ground and covered her face in agony.
+- Back home, Lan went to her room and flipped through the books. On one page was a painting of the sun and under it was the beautiful kingdom with golden grass waving in the wind.
+	- Her heart pounded with excitement, and could not sleep that turn. Her mind filled with wonder and adventure ever since.
+	- A blessing and a curse.
+	- Her friends noticed her changes. She became more absent minded and she often stared into the mountains. Most of them did not ask too much, but Xin took a particular interest in her changes.
+- Curiosity drove her to climb those mountains. As she ascended, the storms grew stronger. A lightning struck near her and broke some rocks and threw her off the side.
+	- Tumbling down to the bottom. She broke both her legs and could not walk anymore.
+- Lan's mother began neglecting her and put all her attention on her sister.
+	- Xin still visited her often to keep her company, and her siblings were kind to her.
+- Lan still grew very sad. Her dreams shattered and now a burden to her family.
+	- Xin encouraged her to continue studying, maybe the Lord will still mark her as a gift.
+	- Then she can escape this torment, and be useful to the village. And her mother can also be proud.
+	- He built her a wheel chair so she can move around again. She was extremely thankful. He pushed her around whenever he had the chance.
+	- And she tried to put all her attention to studying, sharpening her mind, and doing what physical exercise she still could, toning her body.
+	- Still, thoughts about the outside, about what was over those mountains lingered in her mind, and she found herself flipping through her books occasionally.
+	- Eventually, she stuff them all away in a chest and shoved it under her bed.
+	- Sometimes she'd still glance at it, but never took it out.
+- Her hard work paid off, to everyone's surprise. And Lord Vorax marked her as a gifted one.
+	- Her mother's attitude changed again. Her attention came back to Lan and away from her siblings.
+	- Her younger sister got jealous.
+	- They had a fight. Afterwards Lan pulled out the chest but did not open it. And shoved it back under her bed after staring at it for a while.
+- Xin received a mark too. They were both delighted.
+	- But Lan's joy quickly faded. Something felt off. She couldn't tell what it was.
+	- She caressed the wheel chair Xin made, and an incredible wave of loneliness shook her. And she broke down in tears in her room.
+	- She did not speak to anyone about this.
+- Xin's devourance arrived. It was a grand celebration.
+	- He was very skilled at wood work, was handsome, and his muscles were beautiful. Everyone believed this devourance would bring more abundance than usual.
+	- The ceremony involved lots of music and dancing. Everyone wore red robes with sawtooth laces on the hood.
+	- The nuns drew intricate patterns on him using red pigment made from fruits.
+	- The ones close to him would take a few nibbles of the pigment drawn on his body as blessing. Lan ate some on his nape.
+	- That emptiness hit Lan again. This time even stronger. So much that she had to push herself away and cried where no one could see.
+- As she cried, a girl asked her to cry somewhere else, it was noisy.
+	- Lan sulked and pushed herself away, but tumbled down a hill and fell off her chair.
+	- The girl came now to help her up. She had a scar on her face.
+	- She saw Lan had the Lord's mark on her neck and helped her get back on her chair.
+	- She asked why she was crying, and offered to help.
+	- Lan thought she recognised the girl, but could not remember from where.
+	- She pushed Lan through the crowds to catch up to the convoy sending Xin to the Lord, but they had already entered the palace.
+	- When they finally caught up, Xin had already gone into the Lord's chamber and the doors closed.
+	- Taken by the Lord to where once he came.
+- Father stormed in and yelled at them. Xuan stood in front of Lan and took the blame.
+	- He scolded her hard and even slapped her.
+	- He told them to get out of the palace.
+- When they got outside Lan thanked her and also apologized.
+	- Asked for her name, which she gave: Zhi Xuan.
+	- Xuan offered more help but Lan declined. She wanted to be alone.
+	- Xuan left an apple with her and walked away.
+- Lan gripped the handles on the chair. The realisation that Xin won't be able to push her anymore really upset her.
+	- Not because it will cause her inconvenience, but the times they shared were something she cherished. The care he had for her.
+	- All gone.
+	- Out from the Lord's palace came an abundance of food. More than any previous devourance. And the crowd cheered and celebrated even wilder.
+	- This scene that she had seen so many times before, scene that should be natural to her, felt so strange and alien. She could not bring herself to eat anything, or to be happy and enjoy the ceremony.
+	- But nobody wandered why she was quiet, or why there were streaks of dried tears down her cheeks.
+- After the ceremony, Lan pulled out the chest, and took out a few books.
+	- Flipping through them brought back the joy and wonder she didn't realise she missed.
+	- And the pain of losing Xin was alleviate just a little bit. But that bit was all that mattered to her at that moment.
+- She no longer knew what to do or how to feel. Lost on the path pre-determined for her.
+- Lan's mother took Xuan to choose a caretaker that will aid her in her lessons and tend to her needs, to prepare to become a gifted one.
+	- She looked around and did not find Xuan.
+	- She asked for her, and gave her description.
+	- Her mother brought Xuan to her, and she said she wanted her to be the caretaker.
+	- Her mother first protested but eventually gave in.
+- Xuan became Lan's caretaker.
+	- She knelt in front of Lan.
+		- "You will be in my care until time comes for our Lord to take you to where you belong. Away from your torment. For you. And for all of us."
+- Xuan noticed the book half hidden under Lan's silk.
+	- Her eyes widened but quickly looked back down at the floor. -> She thought it was her father's book, but quickly dismissed it because it seemed impossible.
+	- "May the Maw remember your taste," she said. -> maybe change this because I want the fake teaching of the village to be that the Lord will the gifted ones to paradise instead of eating them for food. This is more acceptable.
+	- "Blessed be the hollow," Lan replied.
+	- Xuan kissed her hand.
+
+# ACT II
+- Lan sat by a tree reading the book she hadn't touched in years.
+	- The same excitement and wonder filled her mind.
+	- She began writing her thoughts and fantasies.
+	- As Xuan approached she quickly hid everything away.
+- Xuan hand been tending to Lan's every needs and assisting her in the lessons.
+	- Preparing ink and paper, cleaning and tuning instruments, and even helping her bath.
+	- She was a strict and silent care taker. Always stern and focused on her task.
+	- Lan initially complained about being bathed by Xuan, but her message skills made her go quiet.
+	- Her diet was also carefully managed, to keep her physique as perfect as can be.
+	- There was nothing Xuan could do to stop her from complaining about that. She also could not imagine diet without any meat.
+- Lan noticed that the villagers don't seem to like Xuan very much. Always looking at her judgmentally and mumbling complaints as they walked by.
+	- Even the priests and father made snarky comments about her.
+	- When asked, Xuan didn't really seem to care. In fact, she didn't seem to care much about anything other than her job.
+	- She offered to find someone else to help Lan if it bothered her, to which she refused. Because she was good at what she did, and she gave amazing massages.
+	- Trying to have a conversation with her was also not easy. She was a hard one to crack.
+- They came across the father one day when they were on the way to a lesson.
+	- He made some rude remarks about Xuan.
+	- Lan embarrassed him in retaliation.
+	- Xuan quickly wheeled her away, and burst into laughter when they were alone again.
+	- Lan also laughed.
+	- Xuan quickly caught herself and recomposed. Back to her usual stern self. She told Lan to forget what she saw.
+	- It baffled her. She wanted to press further but her coldness made her back off.
+- They went back on their original path. Both silent. After the lesson on the way home, the wheel chair malfunctioned.
+	- It was beginning to fall apart. The village did not have nice roads, and pushing it on dirt ground damaged it.
+	- Xuan pushed her to the village carpenters to repair it. They could not replicate Xin's craftsmanship and always only made lousy repairs, and they easily broke again.
+	- They put them on a long waiting list despite the urgency. They did not want to bother fixing it because it exposed of their inferior skills to Xin.
+	- On top of that, they did not bother too much as they argued that Lan will return to the Lord soon, so there was no point in making difficult repairs for something that won't be needed soon.
+	- Xuan asked why Lan looked so sad, and she said that the chair was made by an important friend that hand already returned to the Lord. This was the only thing he left behind.
+	- To Lan's surprise, Xuan took it upon herself to scold and convince the carpenters to put their best effort in repairing the chair.
+	- They agreed, and even offered to build a new one but Lan refused. She wanted Xin's chair.
+		- They'd also have to take it apart to understand how to improve on the design.
+	- Lan was thankful and Xuan said it was just to return the favor.
+- Xuan carried Lan on her back to get her home.
+	- Lan reminisced about being carried by Xin.
+	- They talked about him, how kind and brilliant he was, and his skill in wood works.
+	- Xuan joked about Lan's weight. "So he grew his muscles thanks to carrying you around all the time."
+	- Lan protested: "You're so mean! No wonder nobody likes you!"
+	- She realised what she said and wanted to take it back. "Sorry, I didn't mean..."
+	- Xuan did not care. As long as she lives and has something to do, she was fine with anything.
+		- She said Lan did not have to worry about her feelings.
+	- Lan apologised nonetheless, and said how much she appreciated Xuan's help.
+- The once stern girl blushed.
+	- Lan noticed and teased her further. Their journey home was full of chatter.
+	- At home was another meal without any meat for Lan. She pouted and was reluctant to eat.
+	- Xuan sighed and offered some chicken she was going to eat. Lan took the opportunity and asked Xuan to join her.
+	- It had been a long time since Xuan shared a pleasant meal with someone. She enjoyed it more than she expected.
+	- Lan offered to eat with her every turn.
+	- Xuan agreed to that proposed after a while.
+- Turns went on. More studying. The gifted must build a perfect mind and soul. Even though she was already marked, she could lose it if she slipped up.
+	- Xuan accompanied Lan in every lesson. Most of the time to help her, but other times was just to be there with her.
+	- She would fall asleep in literature and poetry classes.
+	- She couldn't help but smile when Lan played instruments.
+	- Lan also watched Xuan's tentativeness when working. Grinding ink, cutting paper, cleaning and tuning instruments.
+	- One turn when she had a rare break, she found Xuan practicing swords somewhere secluded. The weapon did not look well-made.
+	- She wondered what there was to be protected from. There were no beasts or any danger in the village or in the valley enclosed by the mountains beyond.
+	- Xuan's face had a darkness to it when swinging the sword on a dummy, so Lan quietly withdrew.
+- The wheel chair was finally repaired. Not as good as new but it still worked.
+	- The joy made Lan forget about Xuan's secret sword practice.
+	- Xuan commented that Lan had been smiling a lot more than when she first met her.
+	- Lan said it was because she did not have to push herself around anymore. There would always be Xuan to accompany her.
+	- She was also glad that Xin's legacy was safe. She thought this might be what he wanted to do had he not been chosen. Now that she thought about it, Xin did not seem to be suffering or in torment. She wondered how amazing the paradise must be.
+- Xuan asked about Lan's dreams while pushing her back home from the carpenter. 
+	%%Add some variety in where they have their talks. Not just on the way to somewhere, just be somewhere and have them do something while talking. Then their actions can show how they are feeling internally. The variety also makes it more interesting. Can also further build this world with traditions and what people do on a daily basis.
+
+    Can do a scene where they bath together and Lan caresses Xuan's scar.
+	%%
+	- She answered truthfully. To go over the mountains and explore the world.
+	- Told Xuan she broke her legs trying to climb the mountains.
+	- Everyone had told Xuan that it was from some demon. She thought it was probably true since that's what everyone said.
+	- Lan questioned why that is. Why they tend to take the masses as credible?
+		- There was some revelation but they did not realize.
+	- Xuan asked if it bothered her that she won't be able to achieve that dream anymore.
+	- Lan said she didn't know. After all, it was the correct choice to follow tradition. It was what everyone wanted and did.
+	- And, she will return to paradise anyways. So surely there would be a way to achieve her dreams there.
+	- Xuan went quiet.
+- After a while, she asked her why she wanted to go outside of the valley.
+	- It was there. So why couldn't she go?
+	- The village and valley were too small. She had seen everything already. There was never going to be anything new here.
+	- Also nobody could answer her questions in a satisfactory way..
+	- Xuan showed her disdain for that. She thought fantasizing about that was useless. It was impossible to go anyways. Better to focus on what could be done in the village.
+	- Lan wondered if Xuan was satisfied with that. She could not answer and went quiet.
+	- She talked about all the questions she had that no one had answers to.
+	- Xuan reluctantly gave an answer to one of them out of the blue. -> Think about which question and how she answered it.
+- Lan was surprised. It was the first time she heard anything sensible in response to her questions.
+	- She was excited, so much that she almost fell of the chair. She pressed the questioning further.
+	- Xuan answered carefully. Everything she said seemed to make sense, and it was so interesting to Lan.
+	- Eventually she asked about the sun, what the heretic spoke about.
+	- Xuan seemed shocked. She even froze in place.
+	- After some time, she told Lan about house Aphelion, and their sacrificial ritual to keep the sun alight.
+	- Lan thought they were just like her people.
+- Lan finally asked how Xuan knew so much. She only gave a half-assed answer.
+	- She wanted to push further, but saw the sadness on her face, and decided to stop.
+	- She changed the topic back to something they were talking about a moment ago. And talked a lot more.
+	- They lost track of time and space, ended up very far out of the village.
+- The next turn, Lan decided to show Xuan the sun she drew as a kid.
+	- She stared at it for a while and did not say anything.
+	- She then showed her the books she kept from the heretic.
+	- Xuan snatched them from her, hands shaking, caressing the cover, tracing over the letters on the author.
+	- She told Lan she should burn these, that they were evil texts that no one should read.
+	- Lan protested and refused, they argued and Xuan exploded more before storming off.
+	- Lan was left in her room, speechless, confused, and sad.
+%% Need to find somewhere to add that Xuan had been sleeping terribly, haunted by nightmares. This was her own doing to summon the nightmare creatures to the village so she could harvest their core. She intended to use one to make her own eidolith and kill the Lord. %%
+# ACT III
+- The next turn, Lan pushed herself to the far end of the valley. The mountains opened to the sea here, and a lonely beach sat between two cliffs.
+	- She felt strange. And was worried about Xuan.
+	- She rolled up to the sad, the moon full and bright in the middle.
+	- She stared at the cover of the book of the sun, and suddenly realized that Xuan was the daughter of the heretic.
+- As the realization hit, a dark figure in a boat appeared on the sea.
+	- Lan could not believe her eyes. Someone from outside of the village!
+	- Her heart raced in excitement but also a hint of fear.
+	- She waved at it, the figure seemed to notice and steered towards her.
+- The boat got closer and closer, and the man slowly revealed its monstrous form under the moonlight.
+	- Lan quickly turned around and pushed away from the beach.
+	- The boat seemed to be part of the monster. It morphed into its body.
+	- The monster struck Lan and knocked her off the chair.
+- She tried to crawl away but the monster snatched her off the ground.
+	- Its hand was like a cage, locking Lan in its palm.
+	- Lan screamed and struggled.
+- Earlier, Xuan had a nightmare of Lan being killed. She woke up in cold sweat and immediately rushed to her house but did not find her.
+	- Her mother said she went to the beach for inspirations for her new poems.
+	- Xuan grabbed her sword and rushed down to the shore.
+- Back on the beach, the monster was carrying Lan towards the ocean.
+	- Rushing footsteps, then its arm was cut, and Lan fell into Xuan's arms.
+	- Xuan mumbled something, "It came way too early!"
+- Xuan jumped back with Lan in her arms and dodged a few of the monster's attacks.
+	- She placed her on the ground and placed herself in front of her.
+	- Her hands and legs shook. She looked back and saw a shivering Lan, and her body steadied, and mind sharp.
+	- Killer eyes stared into the monster.
+	- Xuan rushed to the monster, dodging its appendages and cutting some of them.
+	- She slashed all over the monster but it recovered too quick for the damage to have any effects.
+	- One deep cut revealed something red in its body. It glistened under the moonlight.
+- Xuan got distracted and was struck, sending her flying back.
+	- The monster charged up another attack. Xuan was about to dodge but she caught a glimpse of the wheel chair behind her.
+	- She halted her movement, and braced the monster's attack. Its appendage shaped into a spear and stabbed Xuan in the left shoulder and arm.
+	- It retracted its appendage. Blood poured out of her wounds.
+- Lan cried out and crawled towards Xuan, but she was too slow.
+	- Xuan pushed herself off the ground. A pool of blood beneath her feet.
+	- She took out a red stone from her pocket and let blood pour onto it.
+	- The stone glowed a beautiful red sheen. Lan could feel something unusual in that stone. Somehow she could feel that it held immense power she could not understand. Like whispers in a language she had never heard before.
+- Xuan closed a fist around the shining stone and pointed a finger at the monster's left flank.
+	- 'Right there. Boom.'
+	- Skin on her right arm got torn off by an unknown force, she screamed in agony, blood splattered all around like a blooming rose.
+	- That same force shot out to the monster, digging a deep trench on the ground as it flew, and tore through the monster like paper. Its entire left body disintegrated in an instant.
+- It collapsed and so did Xuan.
+	- She pushed herself up again and ran towards it.
+	- She winced and used her injured arms to dig out a red stone similar to hers from the monsters body and stored it in her pocket.
+- She came back to Lan to check up on her.
+	- She scolded Xuan for being reckless. Tears pour down her face as more blood poured down Xuan's shoulder and arms, soaking her in red and rusty smell.
+	- She explained that she wanted to protect her precious wheel chair, too. It was the last thing she had of her dear friend Xin.
+	- She asked Lan to take out another red stone from her pocket and stick it in her wound.
+	- As she did, her wound miraculously healed.
+	- She explained that using this heals her wounds but reduces her life span. Nothing is ever free. She only had one of these healing eidoliths, so after it finished healing the wound on her shoulder she went straight to helping Lan get back into the wheel chair.
+	- She used all her strength to push Lan back to the village, leaving a trail of blood behind her.
+	- She insisted on pushing Lan, it was her job, and she enjoyed it.
+- When they finally arrived back at the village, instead of tending to Xuan's wounds several guards took her, hurting her already bloody arm.
+	- Lan protested.
+	- The villagers accused Xuan of putting Lan in danger, and threatened to execute her.
+	- Lan yelled and screamed at the absurdity. Xuan saved her life after all.
+	- Villagers tied up Lan's wheel chair and took Xuan away for a trial.
+	- Xuan looked back and called out to Lan, but her struggles were useless.
+	- Lan was left in silence and emptiness. She punched her legs, cursed at them for being useless, cursed at herself for being weak, and cursed at the monster that hurt Xuan.
+	- She thought back to her conversations with Xuan about Eidolons, and making sacrifices for power. And something in her mind clicked.
+	- In a desperate attempt, she looked into the starry sky, and talked to it.
+		- "Whoever is listening, might you be a deity, spirit, or demon, I don't care. I offer you these legs, in return, help me save my friend!"
+	- Flames rose in front of her. A head floated in it, on a bundle of cackling wooden planks. His face a blur, but she felt his scornful stare.
+	- He pointed at her legs. And they disappeared without a sound. As if they were never there. She felt no pain or any sense of loss. She has lost all feelings down there for years after all.
+	- He gained a body and stepped out of the flame, but still burning and a crown of sticks on his head.
+	- He lifted her up in the wheel chair and ran towards the chapel. Every step scorching the ground.
+- The burning man leaped into the air and crashed through the chapel's stained glass windows.
+	- The glass shattered into a million shards and colours.
+	- The burning man vanished as they crashed through the glass, and Lan landed between Xuan and the angry crowd shouting to have her executed. Flames dissipated shortly after.
+	- Lan threatened to have the man cursed the whole village if they don't let Xuan go.
+	- The mob was scared, the father sighed and let the two go.
+- Xuan then collapsed into Lan's arms.
+- Some time later, Xuan woke up on Lan's bed. She slept hunching over Xuan.
+	- Xuan tried to move but everything hurts. The arm that she used to call the eidolith now bandaged up.
+	- She quickly checked her pocket and found the crystal there still, and sighed in relief.
+	- Her shuffling also woke up Lan, and she was very glad to see she was okay. She had the book clutched in her hands.
+	- She advised her to not show that book around so carelessly, then Lan hid it under her dress.
+- Xuan noticed something was weird about her dress, it seemed too flat, as if nothing was there.
+	- She snatched it and did not feel her legs, and asked what happened.
+	- Lan admitted that she gave them to some spirit and it took her to the chapel to save Xuan.
+	- She told Lan she didn't have to do that for her. She was not worth it.
+	- She asked Lan then to describe what it looked like. She was initially going to answer truthfully, but after thinking about it, she instead lied and told her she couldn't remember.
+	- Lan asked her if that was her father, the heretic, and the author of these forbidden books.
+	- Xuan answered truthfully, avoiding eye contact with Lan. And admitted that she despised her father, for obsessing over fantasies and getting himself killed, leaving her all by herself.
+- Lan commented that Xuan looked so happy when she talked about those stories.
+	- Xuan said she did not have a single happy moment her entire life.
+	- She pushed herself off the bed to go home. Lan wanted her to stay and rest, Xuan told her she was not welcome here. Her whole family was staring her down, and her mother had hostile eyes on her.
+	- Before she left, she asked Lan if she had a choice, would she still participate the devourance festival.
+	- She said of course, after all, who wouldn't want to be in paradise.
+	- She pressed further and asked if she would want the same for her family. And she was also positive about that.
+	- Xuan pushed herself out of the door and left.
+- The turns went on as usual. Lan being prepared for her devourance. Xuan had to rest for some time to heal her wounds. Fortunately, they were not too grave.
+	- After she returned, she just did her duty and did not converse much with Lan.
+	- She felt a weird distance between them.
+- Villagers gave their blessings to Lan whenever they met. The priests and father also gave several private teachings.
+	- She accepted them all in kind, but could not relinquish a weird feeling in her stomach.
+	- Reading her books stopped helping, it just made her feel even sadder.
+	- She was starting to think that those book were evil after all. They placed these fantasies and ideas in her head, but she could never reach them, and that made her even more upset.
+	- Even though she felt worse, her appearance shined.
+	- No one asked or noticed how she was feeling. They just praised her looks.
+- Xuan noticed, and asked how she was doing.
+	- Lan answered truthfully. She felt terrible. Like a great darkness was coming and she had no way of stopping it but watch it devour her whole.
+	- That hurt Xuan. She did not want to see her like this.
+- Before she left, Xuan invited Lan to the beach again.
+	- Lan worried that there will be monsters again, but Xuan reassured her that there will be none.
+		- That she *knew* there won't be more.
+- Lan's face brightened up, and Xuan couldn't help but smile too.
+- Xuan pushed Lan along the beach.
+	- It was peaceful. The moon still full and bright.
+	- They chattered about all kinds of things. Even about the outside.
+	- Xuan admitted that she still hurt from her father's execution, and apologised for her weird behaviour.
+- They reached the beach.
+	- Xuan explained to Lan about Eidolons, blood stones, and the driving forces behind the world.
+	- She asked if Lan wanted to run away together. But she rejected.
+	- She was fine with not going to paradise if she could spend more time with Xuan, and even go outside. But without a month of food would be too cruel. Her family would starve.
+- Xuan looked disappointed.
+- She suddenly told Lan and she was going to kill her.
+	- To relieve her of the terrible fate she would suffer.
+# ACT IV
+- Lan was dumbfounded. She couldn't believe what she just heard.
+	- Xuan raised her blade to Lan.
+	- She explained her plan to use Lan as a vessel to feed to their Lord an eidolith that would make it go out of control and cause a havoc.
+	- Sweet revenge for all her sufferings these years.
+	- She won't have another chance, because the priests would kill her after Lan was sacrificed.
+		- She saw killer in their eyes. Not the usual disgust, but hatred. Cold, dark hatred.
+- She resented this village that ate her father, and now resented it even more for wanting to eat Lan too.
+	- Now nothing was going to change unless Xuan uses Lan and break the cycle once and for all. End all this suffering. There is no paradise. it was all a hoax.
+	- She wanted to destroyed it all.
+- Lan noticed that Xuan's hands were shaking, and that she was crying.
+	- Xuan dropped her blade and broke down on the sand. Kneeling in front of Lan.
+	- She did want to destroy the village, and have the lord eat everyone. The lord they relied on and loved would be the one to end it all. The perfect irony. The perfect reveng.
+	- But she enjoyed Lan's company so much that she didn't want revenge anymore. She wanted Lan to live, and be happy, and explore the world with her. Like they dreamed.
+	- But she didn't know how to save her. She didn't know what to do.
+	- She didn't want to die either. But she was certain they will kill her.
+- Lan asked her if she really hates her father.
+	- She admitted that she loved him and his stories. They kept memories about him. They brought her joy.
+	- She loved the way his face lit up when telling her stories. His gentle and warm voice.
+	- She loved the wonder, the curiosity, the vastness, and the possibilities the laid beyond those mountains.
+	- But after his death, she was afraid of showing that love. she had so much fun sharing them with Lan, and she was so grateful that she protected his books.
+	- Lan said that's how Xuan looked like when they talked about the outside.
+- Lan pushed herself off the wheel chair and crawled towards Xuan.
+	- She leaped to her and held her in her arms.
+	- Lan pulled out the book and asked if Xuan would like to read it together.
+	- She excitedly nodded. years dropping on the pages.
+	- Lan said she had stolen more, and Xuan held her even closer and thanked her.
+- Lan sat in Xuan's laps, and they flipped through the pages together.
+	- They talked and laughed through it. Under the gentle gaze of the moon.
+- They paused on the page about Zinariya. A kingdom bathed under the sun, laid in a field of golden crops.
+	- The two looked at each other, and discussed a wild idea.
+	- What if they try to grow their own food? Like they did in Zinariya?
+	- Then no more people have to die for food, and they can both live.
+	- After that, they can leave, and Lan doesn't have to worry about her family's survival.
+- Xuan pushed Lan home to check if the other books had any passages about growing crops.
+	- Surely enough, they found some records about a society that made their own replicas of the sun.
+	- And another that developed runes that accelerated plan growth.
+	- They wondered why Xuan's family never shared this knowledge to the village, and concluded that they were afraid of the fate that Xuan's father suffered.
+- They set to work, gathering the necessary materials and trying to understand and copy the runes.
+	- The core Xuan had retrieved from the monster was  large, they broke it down into smaller crystals so they can test their rune programs.
+	- Xuan made a rudimentary hoe.
+	- Lan carved runes into the purified rhyze.
+	- They cultivated some land near the beach and placed the eidoliths in a circle.
+	- Xuan dropped some blood onto their rune machine.
+	- A small ball of light appeared in a centre and rose above them. Shining brightly, a gentle warmth on their skins.
+	- Lan placed another eidolith in the circle and the light turned orange, and the seeds they just sowed and the grass around them began to grow.
+- They yelled out in celebration and embraced each other. Their faces littered with dirt and covered in years of joy.
+	- The light diminished as the blood ran out.
+	- With more blood, and the whole village donating, they could definitely grow food.
+	- And no more sacrifices.
+- They laid next to each other on the beach. The wind gently and chill. The two reflected on their past and future.
+	- They decided to reveal  their work on Lan's devourance, which was coming up in just a week.
+- Lan continued her preparations as usual. Her mother busy everyday making dresses and ornaments for her and her sister.
+	- She would be the first to be devoured in her family.
+	- Her mother was very proud of Lan. And her sister was still a bit jealous, but still proud of her.
+	- Xuan stopped coming to help prepare the devourance. This was a very important one.
+	- The mark on Lan was the deepest anyone had ever seen. The Lord really thirsted for her.
+- Without Xuan around, Lan felt a bit lonely. Everyone started to feel alien to her.
+	- As if she was somewhere she didn't belong.
+	- Xuan also tended to the farm. She was much more free and physically capable than Lan.
+- On the day of her devourance, Xuan did not come. Lan waited for as long as she could, but she still did not show.
+	- Her mother was nowhere to be seen either.
+- She rolled to the door, and the arch bishop opened it.
+	- He kindly invited her to a meal. As a celebration for her hard work, and to give her a proper send off for her sacrifice.
+		- Lan was the most unusual gift to the lord. Legs broken and imperfect, yet she was chosen, and with such thirst too.
+	- She could not refuse.
+- The devourance was being prepared. They walked past the rowdy crowds on the way.
+	- They arrived at his house. A big meal was being prepared by nuns.
+	- They sat down. He invited her to eat.
+	- Lan found it more appealing to eat the vegetables. For some reason the meats made her stomach a bit sick.
+- They conversed. About mundane stuff, and the bishop showed his appreciation for her hard work and some sympathy about her legs.
+	- She truly did not mind losing them at this point. No one even noticed they were completely gone.
+	- He asked her to try some of the chicken, they were roasted with a new recipe and everyone loved it.
+- As she was about to bite into the juicy meat, he asked her if she was close with the gift at the last devourance.
+	- She did not know her that well, but she was pretty and well spoken.
+	- He then went on to talk about her weirdly detailed. About her passions, her style of poetry and clothing, and her mannerisms.
+		- Such a shame she was no longer with us.
+	- The whole time he was talking she did not bite the chicken. And after he was done she could not take that bite anymore.
+	- This was a person. Eaten by their lord and turned into food. The thought made Lan sick, she could not stomach it.
+- The bishop noticed and asked her what was wrong, she tried to muffle her way through it but he kept pressing.
+	- Telling her that it would be rude to reject the meat. It was a gift from the previous girl.
+	- Her hands shook. She couldn't do it.
+- His face got dark. He waved his hand and a nun brought a plate with a lid.
+	- It was a test to see if Lan still wholeheartedly accepted their traditions. But she had changed. She had new visions, visions of a different way of life that contradicts with what she had been used to.
+	- She made space for this new dish and place it in front of Lan.
+	- The nun opened it, and it was a heart. A human heart.
+- The bishop explained that it was the corrupted, sinful heart of Xuan.
+	- She tried to create a farm, another way to get food without sacrifices.
+	- It could not be allowed.
+	- Generations of villagers have sent their loved ones to the lord, and bared the pain. It would be unfair to their ancestors if they changed tradition now.
+	- Plus, if they stop feeding the lord it might go crazy and cause a disaster.
+	- So Xuan had to be put down. And her work destroyed.
+- They found out what she was doing thanks to Lan's sisters tailing them one night.
+- Lan tried to run away, but guards easily handled her and threw her in a jail cell.
+- She did not sleep well and did not eat.
+- The burning man on sticks appeared again.
+	- The lingering regrets and desires of Xuan's father.
+	- The Tanha of escape and lament.
+	- Lan asked why he hasn't done anything even after his daughter was killed. Why has he been complacent.
+	- Realise he was weak. Only Lan could see him, the only resonance in the village. He was powerless without a sacrifice from her.
+	- So she gave him her left arm. In exchange, he was to bring her the corruptive Eidolith Xuan had made, and her corpse to Lan on the day of Devourance.
+- The Tanha disappeared. Like a fire fading out. Lan rested on her chair. Tears ran dry. And slept.
+- When she came to, she was all dressed and painted to be devoured.
+- On  the day of devourance, everything proceeded as usual. The villagers celebrated like usual. 
+	- But the village no longer looked tranquil and pleasant.
+	- They became twisted and revolting. They looked mad to her.
+- Lan's mother pushed her through the festivals, receiving blessings from everyone they came across. She seemed happy and proud.
+- At the end, she was handed off to the father. Lan's mother waved her goodbye, not a word more, and turned away.
+- He pushed her into the palace, through the long and quiet hallways.
+	- All while preaching to her about how blessed she was. How grateful the village was for her.
+	- Lan asked him was what the point of it all. Be born just to be eaten, and continue the cycle for an eternity.
+	- He answered that being alive is the point and blessing they have received. The brief time they walked the earth, loved, and experienced the world was a blessing. The shortness was the beauty of it. Just when you are bored of life, you get to escape. While the rest continue to suffer.
+	- They began arguing. Lan said life should not be painful. It should not be suffering.
+	- The father said that constantly losing loved ones is the most painful thing of all.
+	- But you send them to their death! You send countless people to the mouth of a monster!
+	- How else would we survive? The rest of us suffer so the few of you that get eaten can enjoy the brief joy of life and be relieved from the pain.
+	- We were close to find a way to make food without sacrifices!
+	- Then what did my sister die for? What did all of my friends die for? It isn't fair!
+- The truth dawned on Lan. It was never about belief. It was never even about survival. It was all, spite. And it was all pointless.
+- The father pushed Lan into the lord's chamber and slammed the large doors shut.
+- Lan quivered. She gripped her loose sleeve. Where her arm had been.
+- A husk of who she was. Only one limb left. Spirit destroyed. Friend lost. Now her life will end soon too. But she won't go down without a word or impact. This villager will feel her wrath and sorrow.
+- The giant hid behind the usual curtains, but the humongous shadow was not present. It was dead quiet, it did not seem like a monster was living here.
+- The burning man arrived, climbing through a window. In his arms a dark red gem, and the cold body of a poor girl that tried to help her village. The same village that murder her and destroyed her hard work.
+	- Her body bruised and beaten to a pulp. The back of her head cracked open and covered in dried blood.
+- He rested her in Lan's arm. She gritted her teeth and cried and screamed. She tried to kick and punch but all her limbs gone. A simple wish ruined her friend's life.
+- She held her close, kissed the bruises and wounds on her face, caressed her head and wiped hair from her eyes.
+- Lan told the burning man she'd sacrifice her wheel chair, in return for something that can help her destroy this village and slay the lord.
+- The chair began to shift. Its materials transforming to flesh, its shapes warping to that of a person. Until arms wrapped around Lan. A pretty boy embracing her close. So warm.
+- It was Xin's face. He held both girls close. She cried once more. She wished to stay like this forever. But Xuan's eyes would never open. She would never talk with her again.
+- Xin laid Xuan's body on the ground. He knelt down to Lan could fix her hair and feel her face one last time. Then he set off towards the bed with Lan in his arms, the eidolith in her hand. He did not speak, she did not know if he couldn't or simply did not want to. It did not matter. He was with her again.
+- A flight of stairs on the edge of the bed led up to the top of the mattress. Before the two was the giant veil. No movement to be seen behind it.
+- Many questions circled in Lan's mind. Xin opened the veil and revealed a vast mattress. They could see the end of the bed and giant pillows, but no lord to be found.
+- She expected a mountainous glutton dripping with saliva, or a mound of flesh that wanted nothing but to consume human flesh.
+- An eerie, dry screech echoed through the chamber. It had come from the middle of the bed. Squinting her eyes Lan could see something squirming around.
+- The two walked towards it, and the revolting creature revealed itself.
+	- A pathetic, thin, shriveled old man. A bag of bones.
+	- It barely had any muscles. The skin so tight around the bones its skeleton begged to be released.
+	- It hunched around itself like a starving child.
+- This was their lord. The lord of lust and glutton. So extremely addicted to the sensation of eating, it starved itself until the next meal of human flesh.
+	- The closer one is to the edge of starvation, the tastier that meal that quenches the hunger.
+- Lan laughed. This whole time, they have been serving and feeding their own to this sad revolting creature.
+	- Laughter turned into sobbing and tears.
+	- This ends this turn.
+- The lord noticed them, and suddenly grew in size and pounced at them with its gaping mouth.
+	- Xin swiftly jumped aside.
+- He bit into Lan's shoulder. She screamed. Warmth and rust poured down her chest and back, dripping onto the eidolith she held in her hand.
+	- She could not resist. She did not want to resist. The warmth and touch of Xin was comforting.
+	- The eidolith shined, and the boy and girl began to fuse with it.
+- They grew in size. Their heads on the same shoulders. Her thin arm sticking out just above his.
+	- The lord pounced again, and Xin caught it with ease. A salivating mouth opened in their stomach and he threw the lord inside without hesitation.
+	- *Chew, chew, gulp.*
+- The mara of insatiable hunger was born.
+- Its body bloated even more, warts growing and blowing up all over its body, and mouths opened on them. Its body darkened. More arms grew out all over. The mara has taken its true form.
+- It screamed. A terrible sound. Disgusting and wet. The bed destroyed as it tumbled down the chamber. The burning man initially trying to shield Xuan's body but it was powerless.
+- The mara's many mouths sniffed at her body. And let out a cry that could sound like weeping to some, but bellows of a mad beast to others.
+	%% Don't have the burning man grab Xuan's body. Just the eidolith. Have him feed the body into the mara, which knocks Lan back to her sense. %%
+- It gently picked her up and fed her body into one of its mouths.
+- Then it stormed out of the palace, destroying what walls or doors that were in the way. Leaving a trail of carnage, and a burning man standing amidst it all. Watching powerlessly.
+# Act V
+- The mara tumbled around the wrecked the village, feeding whichever villager it could snatch into its many mouths, chewing and sucking on their blood.
+- The burning man watched the havoc taking place.
+- Inside, a deluded Lan feasted on gourmet.
+	- She sat in an opulent dining hall. Empty tables all around her.
+	- As the mara ate the villagers, they appeared sitting at the tables, slumped and lifeless.
+	- More food appeared on her plates. She was overjoyed.
+- More people eaten and seated around Lan.
+- The burning man dug out the body of Xuan and laid her before the maw.
+- Lan continued to feast. Suddenly a familiar face sat down next to her.
+- Xuan.
+- Slumped on the table. Eyes closed. Body cold and unmoving.
+- Fork and knife dropped on the ground. A crisp clink disturbed the grotesque silence inside these halls the maw's stomach fabricated.
+- Bloody hands touched Xuan's shoulder. Shaking to no avail. Only a tainted hand mark left on her clothes.
+- Looking at her hands, and the freakish gore on her plate, she realised what she had been eating, and where all this meat came from.
+- Scream. Scream. Blood on her face. Blood everywhere. The once opulent hall deteriorated, melting from pure marble to tainted flesh. The ground shook. And Lan took off out of the hall, sending a scream that breaks one's throat down the corridors. Leaving Xuan resting on the table.
+- The ground continued to shake. But Xuan would not wake up.
+- The maw cried. Tears seeped through its dark skin like sweat and flowed to a river. The burning man ran out of Lan's home holding a book. The book of the sun. Tales of light and golden crops. Of a civilisation not reliant on sacrifices. Does such a society truly exist?
+- With the book in its hand, it jumped into one of the maw's gaping voids.
+- In the dining hall whose structure almost turned entirely into flesh the great quake ensued, shaking most of its silent patrons onto the ground. Xuan wavered with the ground and finally gave way too but just before she hit the ground a rough hand caught her.
+- An old man in a rugged robe knelt next to her and gently held her in his arms. His face disfigured by flames, and his hairs long and burnt. A tired but pleasant look about his eyes.
+- He called out to her name. In a voice long forgotten by most, and remember only by one. She opened her eyes and could not believe what she saw. The two embraced and the girl cried harder than ever before, even harder than on the day she lost him.
+- She wondered if this was heaven or hell, and her father reassured her it was neither. They came to life because of the rune rich space inside the maw's stomach.
+	- But since he has long been dead and only wandered around as a thoughtless spirit, his form is only temporary.
+	- He told her he was proud of her, and apologised for leaving her so early and alone. She forgave him, it did not matter now.
+- Holding her hand, he gave her the book of the sun. Lan was transforming into a mara, Xuan must stop her before it is complete. Otherwise, everything would be destroyed, and it was not what Lan wanted.
+	- The years of lament and hatred Xuan was holding had formed a tanha around her, after it was put into the eidolith it completely corrupted Lan and the previous lord.
+	- Xuan is the only one with a chance to push Lan back on her original path. One not deviated and skewed by her surge of sorrow and hatred.
+- Xuan agreed. She did not want to see Lan going down the path of destruction. It was not what she wanted.
+- They hugged again. When she opened her eyes again her father was gone. Alone in the empty hall. Not another soul to witness her father. Not a breeze of wind or a trace of warmth to suggest he was ever here in the first place.
+- She dried her tears, grabbed a couple of knifes, tied the book around her robe, and set off to find Lan.
+- The hallways seemed to contort, the ground dark pink and slightly soft like flesh.
+%%
+Make this inner world just dark and made of flesh and bones. Show Lan getting dragged into the pool by countless arms, and that she felt at ease being held closely by warm, flawless bodies.
+%%
+- Outside was the village. The sky dark and all the houses were now built out of bones and flesh, the ground was flooded in blood with occasional humps of meaty material. Xuan misstepped into the pool, her trousers drenched in the rusty liquid.
+- A faint brightness hung in the sky in the direction of the beach, radiating a soft yellow hue. Xuan hesitantly stepped fully into the blood and headed to that direction.
+- Even though there were no torches and the sky was starless, the world was still lit, as if from an unknown light source.
+- Xuan cursed as she sloshed through the red lake and pumped into flesh humps. As she sloshed on several figures appeared ahead. They turned around as she approached. She recognised them. Villagers that resented her.
+- They pointed and shouted something incoherent. Their faces and body had deformed, but their resentful gaze stayed the same. Her heart tightened and she drew out a knife.
+- The crowd of deformed villagers parted ways and a large figure stepped through. It was the father. Still wearing the priest's robe, his face twisted and body bent in impossible ways like the rest.
+- He managed to spit out a comprehensive sentence, about how thankful he was that he was to be swallowed by his lord, and even sharing a grand vision with him. He then cursed Xuan, and warned her to not ruin this blessing.
+- Xuan cursed back, called him all sorts of nasty names. The father was angered, and he commanded the crowd to attack her.
+- She looked at her feeble butter knife, threw it at one of the villagers and readied her fist.
+- Facing the mob sloshing towards her she did not falter. Her fists met their disfigured faces, knocking out teeth and blood one by one. The villagers were sluggish, their wide gropes easily dodged.
+	- Knees, elbows, she used everything to knock them down.
+- Xuan's fierce attacks staggered the mob's pursuit. The father told them not to fear, that they have gifts from their new lord.
+	- "Use your bones and flesh to strike down this heretic!"
+- Bones stuck out from their arms, sharp like spears and blades. Muscles bloated into hammers and maces.
+- "Oh fuck-"
+- The mob pressed on with their new forms, Xuan had no choice but to run. She stumbled and splashed into the endless red pool.
+- Just before the bone blades and flesh maces struck her, she raised her arms in protection, wishing she had a shield to block their attacks. The ground rumbled and out from the rusty pool came a row of spines between Xuan and the mob, blocking their attacks.
+- The father screamed in disbelief that Xuan had the same gifts as them, despite being a heretic.
+- Understanding the mechanics of this realm, Xuan envisioned a sword, and a handle rose from the pool. Pulling it out revealed a bone sword. The mobs were swiftly cut down one by one.
+- The spine fell away, and Xuan fought the enraged mob head on. Stabbing, cutting, everything she knew how to do with a blade.
+- Bodies floated in the blood pool around her. The father enraged. His rage made him take a new form. He combined with the rest of the villagers into a monstrous brute, bones stuck out as armour, fists round and heavy like hammers.
+- He swung at Xuan, she blocked with spines just in time but it still knocked her away into some trees. He lunged at her and they fought, Xuan locked down his arm and cut it with her sword, and he smashed his hammer into her with great force.
+- Catching her breath, the father cursed more at her.
+- Xuan retaliated. "We control how we want to live our lives! Not bound by traditions or rules. We WILL go over those mountains because we were born with that right! We will see the sun with our own eyes because we CAN!"
+- The father charged and pounced at her. She shot a big spear at him but missed and he pinned her down. Just for the spear to come back and stab him in the centre. She took the chance and slashed his neck and chopped down his head.
+- "Even if there is only misery outside, you still want to go?"
+- "Even if all paths lead to oblivion, we will walk them with our own feet."
+- "Why suffer?"
+- "...There are hundreds of flavours of life, I want to taste them all. That's what I call living."
+- "I hope you reach that oblivion. Heretic." He said and melted away.
+- Xuan picked up the book of sun. She called out to Lan again, and felt her presence deep in the sea of blood, the book glistened too, as if also calling out to her.
+- She took a deep breath and dove into the sea. The thickness made it difficult to swim, but she felt Lan's touch stronger and stronger and pressed on.
+- The book escaped her hand, shone bright under the sea of blood. A thousand hands reached towards it. Xuan could not hold her breath any longer and was losing her consciousness.
+- The hands grasped her and shot out of the blood sea high into the air. Xuan coughed out blood and opened her eyes. The familiar face of Lan gazed back at her.
+- With a rumble, the dark sky broke into a starry night and full moon.
+- Lan was raised by countless men and women. Their eyes closed at peace. In her hands the book of sun.
+- "I came back, Lan."
+- They embraced each other.
+- "Why did you revive those guys too? I almost died again."
+- "It was a mistake! I only wanted to revive you, but I couldn't control my power well enough."
+- They laughed. The silent bodies lowered them to the familiar beach. They talked about everything that had happened.
+	- Lan described memories and knowledge flooding into her head. Things she had never known and should have not known. The brief moment she became mara-struck gave her visions she could not comprehend. It was like she connected to countless people that felt the same lament, anger, and hunger as her.
+- "This wouldn't have happened if we just ran away together and didn't try to start that farm."
+- "I would still do it, though." Xuan said and held Lan's hands. "We did the right thing. Whether or not we got the result we wanted is another matter. And it was the most fun I've had my entire life."
+- They flipped through the book again and read it together. They still wanted to see the sun for themselves, and everything else the world had to offer. But Xuan is only alive thanks to the special realm inside Lan's stomach, and Lan was barely holding on the control over her body.
+- "I know what must be done. Xuan, you will see the sun for me. Not just that, you will see *everything* for me, and tell me about them. Our mara lord was once just starving child in the night. I will take on his hunger, but redirect it for knowledge of this vast world. So, go. Go over those mountains and experience the world I never could, and come back and tell me all about it. I will be all ears."
+- Xuan accepted reluctantly. They hugged for the last time, and with a push Xuan was sent flying backwards, the world around her distorting and warping then suddenly she hit the hard dirt ground.
+- When she came to she was lying in the village square. The village now a torn mess. Houses crushed and burned, dismembered corpses laid about, and what left of the villagers screamed and shivered in horror.
+	- Her body made of ceramic, every joint interlocked, like a doll.
+- Before he stood the mara of lust, hunger, and lament. It bloated up to an enormous size and out from its mouths came giant ceramic arms, they tore the mouths and flesh of the mara apart.
+- The hands reached to the top and torn the mara apart, out from the top came a pristine, giant statue of a beautiful goddess. Her form perfect. Her hair a thousand hands. And she raised on more hands from below.
+- She reached out to Xuan and caressed her face. Her thumb stroke the side of her face where her scar should've been, and it cracked.
+- "I liked your scar." Retracting into a meditating form. "Farewell, Xuan. Keep our promise." As her words dropped two hands blocked her mouth, two others blocked her eyes, leaving only her ears exposed.
+- No eyes to judge. No mouth to protest. And no flesh to rot and decay. Only ears to listen and absorb all the knowledge and stories the world has to offer. For eternity. The all hearing mother of the valley of hunger.
+- The survivors of the village gathered and bowed down to pray to their new lord. One that exchanged knowledge for food, rather than flesh.
+- Not a mara that feeds on others to satisfy self, but one that sacrifices within for one's ambitions. The Chanyin of knowledge and stories that hears all.
+- Xuan told everyone what their new lord wanted, and showcased her ability by telling her the story that passed down in her clan. The story about how they got to know about the outside, and how those books were written.
+	- One of Xuan's ancestors found a stranger knocked out by the mountain foot. He brought him into his own home and treated his wound. Though, his wounds healed extraordinarily fast. Felt this man was special. No one could climb those mountains without being blasted to pieces by the lightning storm.
+	- As a sign of gratitude, the man told her ancestor many stories about the world on the other side of the mountains, and he wrote down as much as he could. They became the books that passed around in the village.
+	- He also came back years later to gift her ancestor many books, all written about specific parts of the world. Though, she or her father have never met the man. This was her favourite story. The thought that there are people living in other parts of the world gave her hope.
+- After she finished, the Chanyin's countless hands on her head began moving. They reached into her head and brought out lots of food. This is how they will survive from now on.
+- Xuan announced that after the village is fixed up they will open the mountains and explore the world for themselves, so that they can bring back interesting stories and knowledge to share with their Chanyin.
+	- "This is your answer, isn't it?" Xuan turned about. She felt the ceramic goddess grinning.
+
+# General ideas
+- At the beginning of the year, children  at the age between 16 and 18 and lined up in a room.
+- The lord laid on a giant bed behind an even bigger curtain.
+- Its reflection gigantic and monstrous.
+- It would stick a finger out to point at the children it wanted to eat. And the priests wrote the names down. In the order they were picked.
+- These were the children to be devoured this year.
+- To everyone's surprise, Lan was chosen, despite being strained to a wheel chair.
+- Don't do the paradise lie, too easy of a twist. Also might be more interesting if everyone knew they would be eaten but all accepted it and even see it as the right thing or an honourable thing to do. 
+
+# Future plans
+- Could turn into a trilogy.
+- Epilogue of the first book:
+	- Xuan reaches the main church of light and spoke with an elder. He suggested that she expands the village and open a port, and build a church under the moon's name to make it an official neutral ground. Her village can become a haven for scholars and travellers on both land and sea.
+	- She expressed her desire to visit Zinariya, the elder agreed to help her if she proceeds with his suggestions. But her warned her that it might not be what she expects.
+- Epilogue of the second book:
+	- The church elder talked with a seeker from Zinariya. At the end of their conversation he asked him for a favour, to send in an entrance permit to Zinariya for Xuan.
+	- The seeker accepted reluctantly, as the empire has fallen into a tricky situation. The last heir of sun had gone missing, and due to a memory alteration event no one knows who it was or have any idea where to find them. This had sent panic throughout the whole empire.
+	- He whispered that some had theorised the whole thing to be schemed by opposing forces of the empire, or the traditionalist branch of house Aphelion.
+	- The elder hoped that the ripples of this conflict does not extend too far into the night.
+- Epilogue of the third book:
+	- Xuan finished expanding the village and built the port. The village had transformed into a small city, a safe haven for scholars and travellers on both land and sea. The elder came to visit and was extremely pleased with the result.
+	- He showed his gratitude for Xuan, and gave her an honourable gift and special privileges in the church of light. And promised to include her as part of the moonlight court.
+	- After some chatting, at Xuan's house. The elder took out Zinariya's entrance permit. He said it was conditional, she must assist the empire in finding the lost heir of sun. With her vast source of knowledge, it can surely be of help.
+	- She gladly accepted.
+	- However, an appendix came with the permit, from an unknown sender. He warned her that she was to choose for herself whether she accepts this second part or not that she was to decide for herself what to do if she finds the heir of sun. And advised her to not think about it until she finds them and gains a thorough understanding of the history and goals of Zinariya, and the nature of Evernight as a whole.
+	- The appendix asked her to kill the heir of sun once they are found.
+	- It was with an additional reward as well.
+	- Once the heir of sun is confirmed to be dead, an eidomancer with a unique ability will be sent to Xuan.
+	- And they will turn Lan back to a human girl.

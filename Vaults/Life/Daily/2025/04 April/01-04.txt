@@ -1,0 +1,6 @@
+# Spectx
+- [ ] Trajectory generator
+- [ ] Trajectory follower
+- [ ] Test cases for these
+- [ ] Meeting with Luka
+- [ ] Meeting with Ali and Akhi

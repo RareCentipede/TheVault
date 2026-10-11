@@ -1,0 +1,16 @@
+- [ ] 1 x [Rocker switch normal](https://www.tinytronics.nl/en/switches/manual-switches/rocker-switches/standaard-built-in-rocker-switch-normal)
+- [ ] 1 x [XT30U Connector set](https://www.tinytronics.nl/en/cables-and-connectors/connectors/others/xt30u-connector-set)
+- [ ] 1 x LED
+- [ ] 1 x 4.7k Ohm resistor
+- [ ] 4 x [JST_XH 2p connector with cable and PCB connector](https://www.tinytronics.nl/en/cables-and-connectors/cables-and-adapters/jst-compatible/jst-connector-with-cable-and-pcb-connector)
+- [ ] 3 x [JST_PH 2P female to Dupon cable](https://www.tinytronics.nl/en/cables-and-connectors/cables-and-adapters/jst-compatible/jst-ph-female-to-dupont-female-compatible-kabel-2p-15cm)
+- [ ] 3 x [JST_PH 2p PCB connector male](https://www.tinytronics.nl/en/cables-and-connectors/connectors/jst-compatible/jst-ph-2p-compatible-pcb-connector-male)
+- [ ] 1 x [JST_PH 3P female to Dupont cable](https://www.tinytronics.nl/en/cables-and-connectors/cables-and-adapters/jst-compatible/jst-ph-female-to-dupont-female-compatible-cable-3p-15cm)
+- [ ] 1 x [JST_PH 3P PCB connector male](https://www.tinytronics.nl/en/cables-and-connectors/connectors/jst-compatible/jst-ph-3p-compatible-pcb-connector-male)
+- [ ] 2 x [JST_XH 4P female to Dupont cable](https://www.tinytronics.nl/en/cables-and-connectors/cables-and-adapters/jst-compatible/jst-xh-female-to-dupont-female-compatible-cable-4p-15cm)
+- [ ] 2 x [JST_XH 4P male PCB connector](https://www.tinytronics.nl/en/cables-and-connectors/connectors/jst-compatible/jst-xh-3p-compatible-pcb-connector-male-90-1-1-1)
+- [ ] 1 x [40 Pins header male long](https://www.tinytronics.nl/en/cables-and-connectors/connectors/pin-headers/male/40-pins-header-male-long)
+	- [ ] 16 for LCD
+	- [ ] 8 for voltage monitor breakout board
+- [ ] 2 x 3 Female headers
+- [ ] 2 x [Murata 5V switching voltage regulator](https://nl.rs-online.com/web/p/switching-regulators/7962138?gb=s)

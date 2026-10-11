@@ -1,0 +1,1 @@
+Called the phone at the Sheriff's office. Talked about some package and waiting at Ann's courtyard.

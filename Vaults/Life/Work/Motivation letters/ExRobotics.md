@@ -1,0 +1,15 @@
+Dear Hiring Team at ExRobotics,
+
+I am Zhengyang, a fourth year TU Delft Robotics Master student applying for the Electrical Engineer role at ExRobotics. The job description sounded interesting to me and fits my experience well, namely control systems, embedded software, and hardware-software integration. I am also based in Delft and I am applying for the position for after I graduate in June. I also have affinity with robotic software development, mainly in ROS2. If you do not find me fit for the Electrical Engineer position, please also consider me for a robotics software developer if you have a position open there.
+
+My background is in robotics and electrical engineering, and have taken on several projects where I was responsible for electronics design and manufacturing and embedded programming. Hence, I am used to working in multidisciplinary environments, it is also what appealed to me about this job opening. At the TU Delft Bike Lab, I developed C firmware on a Teensy microcontroller to acquire and transmit IMU data over Bluetooth and integrated a CAN bus pipeline for multi-node data logging. For the RoBorscht project, two friends and I were tasked to build a robotics hand. I designed custom PCBs to distribute power and enable communication between motor drivers via CAN bus, and wrote closed-loop motor control firmware in C++ on a STM32 microcontroller. Additionally, I've participated in numerous hackathons where we had to rapidly prototype robots in a team and complete in challenges, often having to design electronics and write embedded software. These projects were all about testing hardware and debugging integration with software, so I have become quite familiar with those aspects of multidisciplinary projects. In addition, I always try to write clean, readable, and maintainable code even in those stress-inducing hackathons, and I use git for version control whenever I can. For my part time job we use Linux for all the software development, so I am familiar with it as well.
+
+I enjoy problem solving, and working with both software and hardware, especially seeing my code control actuators and move real systems, and this position seems like a nice combination of software and hardware. From the above projects and other work experiences I've improved my communication and team work capabilities a lot, and I have come to really enjoy working in a team, willing to step up to responsibilities or take on tasks that do not fit my position but are necessary. I am also not afraid to take on challenges or responsibilities, and I am always interested in learning new skills. Technology excites me, solving real world problems motivates me, and your mission on using robots to survey hazardous environments sounds super challenging and exciting, so I would love to learn more about this position and how I could fit into the team.
+
+Thank you for your time and consideration, hope to hear back from you soon!
+
+As an additional note, I have permanent residency in the Netherlands, so I do not need a work visa.
+
+Kind regards,
+Zhengyang (Steven) Lu
++31 618445246 | stevenlu176@hotmail.com

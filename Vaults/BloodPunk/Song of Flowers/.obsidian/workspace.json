@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "0621c106fbad0912",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd492c7f06ea8073",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a37c844b44beb640",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World/Higher beings/Gods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gods"
+            }
+          },
+          {
+            "id": "64d03eae1252c17b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plot/Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ideas"
+            }
+          },
+          {
+            "id": "50a8bdda5958081f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59541e60aacf1473",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0e87e8713f7ceae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80dbbf5923478558",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "133ac285851b7083",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "31d12d91db3c1a11",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9cf05304fa0389af",
+    "type": "split",
+    "children": [
+      {
+        "id": "4077904f1654f68a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "610163a43040b9d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "World/Higher beings/Gods.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Gods"
+            }
+          },
+          {
+            "id": "6c1ac9ba75f90676",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Snippets/Define yourself using your creations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Define yourself using your creations"
+            }
+          },
+          {
+            "id": "2439d92e8113fc72",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b55902bb77713ed2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Snippets/Define yourself using your creations.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Define yourself using your creations"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a37c844b44beb640",
+  "lastOpenFiles": [
+    "World/Higher beings/Tanha and Mara.md",
+    "World/Eidolon/Trigger, Drive, Resolve.md",
+    "World/Eidolon/Eidomancy.md",
+    "World/Rhyze and Runes/Eidolith.md",
+    "World/Rhyze and Runes/Rhyze.md",
+    "World/Rhyze and Runes/Runes.md",
+    "World/Rhyze and Runes/Rune - Update.md",
+    "World/Rhyze and Runes/Catalysts.md",
+    "World/Eidolon/Driver.md",
+    "Themes/Purpose.md",
+    "Themes/Emotions.md",
+    "Themes/Memories.md",
+    "Plot/Ideas.md",
+    "World/Evernight/Factions/False gods.md",
+    "World/Evernight/Factions/Human Lords.md",
+    "World/Evernight/Factions/The dreamers.md",
+    "World/Evernight/Factions/The Void.md",
+    "World/Evernight/Factions/The Tyrant.md",
+    "World/Zinariya/Ministry of Eidology.md",
+    "World/Kalpavriksha.md",
+    "Snippets/Define yourself using your creations.md",
+    "World/Higher beings/Tharisha-The Blessed One.md",
+    "Characters/Main/Sophie Taraxa Sangnsui.md",
+    "282c7d10-7acf-4294-807e-0c526289092f.webp",
+    "World/The teleporting library.md",
+    "image.png",
+    "f2b79c5e-b5e6-4f97-8171-802676dbea9d.webp",
+    "a1552c43-0889-4efc-ade6-f3d6b774c5d9.webp",
+    "20250209_202953.jpg",
+    "Characters/Main/Mirasol's mother.md",
+    "Characters/Main/Mirasol Aphelion.md",
+    "Characters/Main/Pasted image 20240621012509.png",
+    "Characters/Main/Pasted image 20240621012457.png",
+    "World/Zinariya/Nobel houses",
+    "World/Eidolon",
+    "Themes",
+    "Snippets",
+    "Characters/Sub/Nirvana/Guild/Cynthia",
+    "Characters/Sub/Nirvana/Guild",
+    "Characters/Sub/Evernight",
+    "Characters/Sub/Nirvana",
+    "Characters/Sub/Zinariya",
+    "Characters/Sub",
+    "Pasted image 20240621012509.png",
+    "Pasted image 20240621012457.png",
+    "World/Rhyze/Untitled.canvas"
+  ]
+}

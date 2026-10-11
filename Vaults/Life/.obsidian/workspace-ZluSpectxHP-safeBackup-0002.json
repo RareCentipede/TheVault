@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "98f44ed922b970bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "5dc21a9156443a7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78ff7c65a29de62c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2025/06 June/2025-06-02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-02"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06a161bd2e1b0b32",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2b345133085fd3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7bfef403553ffcc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1e37ca477c3a14f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "04333adfcad96d37",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "1b1acbd16a4873fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1151474834b24f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f26ffd4ca2c642f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/2024/09 September/2024-09-02.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-09-02"
+            }
+          },
+          {
+            "id": "1b65715c06fecf69",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily/2024/09 September/2024-09-02.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-09-02"
+            }
+          },
+          {
+            "id": "7268d999782cfbd7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8f09f4d558663ccd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/2025/05 May/TODO.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TODO"
+            }
+          },
+          {
+            "id": "00ee54ef709eba7a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "d4d74052200c0d52",
+            "type": "leaf",
+            "state": {
+              "type": "smart-gantt",
+              "state": {},
+              "icon": "gantt-chart",
+              "title": "Smart Gantt"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "smart-gantt:Smart Gantt": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "78ff7c65a29de62c",
+  "lastOpenFiles": [
+    "Daily/2025/05 May/2025-05-26.md",
+    "Daily/2025/05 May/TODO.md",
+    "Daily/2025/06 June/2025-06-02.md",
+    "Daily/2025/05 May/2025-05-26.md.partial",
+    "Daily/2025/05 May/TODO.md.partial",
+    "Daily/2025/06 June/2025-06-02.md.partial",
+    "Daily/2025/06 June",
+    "Daily/2025/05 May/TODO-ZluSpectxHP-safeBackup-0001.md",
+    "Daily/2025/05 May/2025-05-01.md",
+    "Daily/2025/04 April/2025-04-28.md",
+    "Deep Dirt BOTANICA/Shopping.md",
+    "Todos.md",
+    "Writing/At world's end.md",
+    "Daily/2025/05 May",
+    "Daily/2025/04 April/2025-04-21.md",
+    "Daily/2024/08 August/2024-08-27.md",
+    "Daily/2024/05 May/2024-05-14.md",
+    "Daily/2025/03 March/2025-03-11.md",
+    "Daily/2025/03 March/2025-03-17.md",
+    "Daily/2025/03 March/2025-03-30.md",
+    "Daily/2025/03 March/TODO.md",
+    "Writing/The Orphans (temp).md",
+    "Roman's reference letter.md",
+    "Daily/2025/04 April/2025-04-16.md",
+    "Master thesis/Resources.md",
+    "Writing/InfiniTower.md",
+    "Writing/The Mushroom crunch.md",
+    "Daily/2025/04 April/01-04.txt",
+    "Daily/2025/04 April",
+    "Daily/2025/02 February/2025-02-11.md",
+    "Daily/2025/03 March",
+    "Daily/2025/02 February/2025-02-09.md",
+    "Daily/2025/02 February/2025-02-07.md",
+    "Writing/To kill a blackhole.md",
+    "Daily/2025/02 February",
+    "Pasted image 20250129211433.png",
+    "Daily/2025/01 January",
+    "Daily/2024/03 March/Academics/ICS/Exam revision/Pasted image 20240410171601.png",
+    "Daily/2024/03 March/Academics/ICS/Exam revision/Pasted image 20240408153856.png",
+    "Daily/2024/03 March/Academics/ICS/Exam revision/Pasted image 20240408153828.png",
+    "Daily/2024/03 March/Academics/ICS/Lecture 1/Pasted image 20240325161432.png",
+    "Daily/2024/03 March/Academics/ICS/Lecture 1/Pasted image 20240325155627.png",
+    "Daily/2024/03 March/Academics/ICS/Lecture 1/Pasted image 20240325155538.png",
+    "Daily/2024/03 March/Academics/ICS/Lecture 4/Pasted image 20240415123045.png",
+    "Daily/2024/03 March/Academics/ICS/Lecture 4/Pasted image 20240415122909.png",
+    "Daily/2024/03 March/Academics/ICS/Lecture 4/Pasted image 20240415122600.png"
+  ]
+}

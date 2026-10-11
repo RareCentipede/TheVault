@@ -1,0 +1,1 @@
+A letter was address to him by a sibling. They are working full time at the mansion.

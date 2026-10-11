@@ -1,0 +1,6 @@
+- [ ] Get started on the paper
+- [ ] Go to the gym at least twice a week
+- [ ] Finalise and sign QED Technologies work contract
+- [ ] Try to get a response on the Robotics Institute Sponsorship
+- [ ] Restart writing
+- [ ] Read at least 5 times a week
