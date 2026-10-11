@@ -160,7 +160,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "charted-roots:Open Charted Roots control center": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,

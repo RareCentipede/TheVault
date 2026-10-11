@@ -11,17 +11,14 @@
             "id": "a496ff382262991b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": -2.842170943040401e-14,
-                  "zoom": 0
-                }
+                "file": "Song of Flowers/Characters/Welt of the Well.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Welt of the Well"
             }
           }
         ]
@@ -173,12 +170,12 @@
   },
   "active": "a496ff382262991b",
   "lastOpenFiles": [
-    "Song of Flowers/282c7d10-7acf-4294-807e-0c526289092f.webp",
+    "Evernight.pdf",
     "Untitled.canvas",
+    "Song of Flowers/282c7d10-7acf-4294-807e-0c526289092f.webp",
     "Song of Flowers/f2b79c5e-b5e6-4f97-8171-802676dbea9d.webp",
     "Song of Flowers/a1552c43-0889-4efc-ade6-f3d6b774c5d9.webp",
     "Song of Flowers/20250209_202953.jpg",
-    "Evernight.pdf",
     "Mirasol Aphelion commission.pdf",
     "Pasted image 20240928142535.png",
     "Untitled.base",
